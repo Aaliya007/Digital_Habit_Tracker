@@ -1,0 +1,7 @@
+# Ignore compiled files
+*.exe
+*.out
+*.o
+
+# Ignore generated runtime data
+habit_data.txt
