@@ -74,7 +74,3 @@ Habit_tracker.exe
 - Add password/login system
 - Add monthly analytics
 - Build a GUI version
-
-## Author
-
-Developed as a Semester-2 PBL project on **Digital Habit Tracker**.
